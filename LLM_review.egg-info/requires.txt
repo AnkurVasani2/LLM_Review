@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+python-multipart
+langchain
+langchain-groq
+langchain-core
+langchain-chroma
+langchain-huggingface
+chromadb
+unstructured

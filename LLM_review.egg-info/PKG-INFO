@@ -1,0 +1,14 @@
+Metadata-Version: 2.4
+Name: LLM_review
+Version: 1.0.0
+Requires-Dist: fastapi
+Requires-Dist: uvicorn
+Requires-Dist: python-multipart
+Requires-Dist: langchain
+Requires-Dist: langchain-groq
+Requires-Dist: langchain-core
+Requires-Dist: langchain-chroma
+Requires-Dist: langchain-huggingface
+Requires-Dist: chromadb
+Requires-Dist: unstructured
+Dynamic: requires-dist
